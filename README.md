@@ -71,5 +71,3 @@ This project is currently maintained by Sumit Suresh Madhav, a Data Analyst with
 - **Name:** Sumit Suresh Madhav
 - **Title:** Data Analyst
 - **Email:** madhavsumit369@gmail.com
-- **GitHub:** SumitSureshMadhav
-- **LinkedIn:** Sumit Suresh Madhav
